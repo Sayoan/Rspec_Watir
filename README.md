@@ -5,3 +5,5 @@ Com o projeto em mãos, instale o Bundler (gem install bundler) e depois rode o 
 Se tiver alguma dúvida ou problema para rodar os testes, só avisar nos comentários. E sugestões, críticas e opiniões sobre o projeto são bem-vindas também.
 
 $ gem install bundler
+
+https://qualidadebr.wordpress.com/2011/03/14/melhorando-os-testes-com-o-rspec/
